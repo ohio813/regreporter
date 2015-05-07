@@ -1,0 +1,1 @@
+Regreporter is a FOSS Windows registry forensics tool forked of Registry Deocoder / Registry Decoder Live.
